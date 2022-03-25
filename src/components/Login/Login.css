@@ -1,0 +1,8 @@
+.Login__info {
+    width: 15%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    border: red 1px solid;
+    font-size: 75%;
+}
